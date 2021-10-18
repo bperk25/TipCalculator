@@ -20,7 +20,7 @@ The following **extensions** are implemented:
 * [X] Custom colors palette selected
 * [X] Bigger emoji
 * [X] Changed Layout to two sections (Top, Bottom)
-* [ ] Added option for change in currency
+* [X] Added option for change in currency
 * [ ] Split tip option
 
 ## Video Walkthrough
