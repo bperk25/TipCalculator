@@ -21,7 +21,6 @@ The following **extensions** are implemented:
 * [X] Bigger emoji
 * [X] Changed Layout to two sections (Top, Bottom)
 * [X] Added option for change in currency
-* [ ] Split tip option
 
 ## Video Walkthrough
 
